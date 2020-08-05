@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+Add something new to the file to make it... better?
 
 ---
 
